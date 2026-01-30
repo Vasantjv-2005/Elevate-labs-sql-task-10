@@ -1,5 +1,7 @@
-Task 10 – SQL Views (Intern Training)
-
+**Task 10 – SQL Views (Intern Training)
+**
+**
+Uploaded the output image below**
 Objective:
 The goal of this task was to understand SQL Views by creating a virtual table that joins employees and departments data, and then performing operations on it.
 
@@ -35,6 +37,9 @@ Key Learnings:
 - Join views cannot be directly updated or inserted into.
 - Views help hide underlying table complexity.
 - Views can be filtered and sorted like normal tables.
+
+<img width="1662" height="1006" alt="task10" src="https://github.com/user-attachments/assets/83e85f63-787c-476c-b815-f278a40f58a5" />
+
 
 Real World Mapping:
 
